@@ -28,3 +28,24 @@ My key skills are designing Deep Learning models in Python with Tensorflow, Open
 
   **Conclusion** It needs to be considered, whether further method improvements can overcome the limitations, or an entirely different approach is required.
 
+* **Research Thesis:** DL-based automated detection and tracking of human cells in microscopy image sequences [private]
+  | <img src="https://user-images.githubusercontent.com/62755943/167648765-ec0f7ffd-9cd2-4913-aa57-a8287b4090d7.jpg" width="600">| <img src="https://user-images.githubusercontent.com/62755943/167648884-941b92f3-a9ac-4544-a93d-6222c8a541ff.gif" width="400">|
+  |:--:|:--:| 
+  | MPM-Net method | Prediction results for lung cancer cells|
+
+  **Motivation** The study of biological processes requires detecting and tracking cells in time-lapse microscopy images. Manual analysis is time consuming and limits the number of cells that are considered. With support of algorithms the analysis could be reduced in time and increased in quantity, resulting in higher statistical significance. One automation approach are deep learning-based algorithms. They require labeled datasets, however, the number of public human cancer cell microscopy datasets is limited. Therefore the performance of state of the art deep learning approaches is mostly unknown. 
+  
+   **Methods** Out of three algorithms the Motion-and-Position-Map-Network (MPM-Net) was selected as the approach to cell detection and tracking. It was evaluated on the Cell Tracking Challenge DIC-C2DH-HeLa dataset, and the NCI-H460 in-house dataset.
+
+  **Results** MPM-Net achieved a detection F1-score of 87.27% on the HeLa and 91.82% on the NCI-H460 dataset. Tracking performance was slightly lower with an association accuracy of 83.94% for the HeLa and 79.05% for the NCI-H460 dataset. Mitosis events were detected with an F1-score of 72.75% for the HeLa and 72.00% for the NCI-H460 dataset.
+  
+  **Conclusion** Overall results prove that the MPM-Net based algorithm is applicable to detecting and tracking human-cancer cell lines, but shows limitations with regard to overdetection and detecting mitosis events reliably. At the same time the model is generalizable to similar, unseen cell lines and learned to identify real biological structures, such as cell nuclei, as a critical feature for high cell probability. 
+  
+* **Deep Learning Lab 2021**: Diabetic Retinopathy Detection and Human Activity Recognition [public] [check it out](https://github.com/lely475/Deep-Learning-Lab-2021)
+
+  Two projects implemented during the Deep Learning Lab 2021 of the Institute of Signal Processing and System Theory ([ISS](https://www.iss.uni-stuttgart.de/en/)) 
+  1. Deep-learning based classification of retina image into cases of referable and non-referable diabetic retinopathy. 
+  2. Human activity recognition based on smartphone sensor data classified with a RNN
+* **REST API backend**: [private]
+
+  Implementation of a REST API connecting a Postgresql database with a User Interface. Implemented using Javascript, Express.js and Node.js.
