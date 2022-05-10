@@ -12,10 +12,12 @@ I enjoy solving data-related problems especially with Machine Learning methods a
 Beyond just coding I like to dig deeper into the mathematical aspects of Machine Learning, which is supported and motivated by lectures during my masters degree, such as Advanced Mathematics for Stastical and Signal Processing, Detection and Pattern Recognition, Stastical and Adaptive Signal Processing, Deep Learning and Computer Vision.
 Due to the mostly interdisciplinary nature of Machine Learning applications I believe it is crucial to familiarize with the data and fully understand the desired objective, before implementing a solution.
 
-My key skills are designing Deep Learning models in Python with Tensorflow, OpenCV and PyTorch, but I also have experience in Backend Development with Javascript and Embedded System design with C and VHDL.
+Key skills: Designing Deep Learning models in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">, <img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv"> and <img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch">, but I also have experience in Backend Development with <img align='center' src="https://img.shields.io/badge/Javascript-000000?style=flat&logo=javascript"> and Embedded System design with C and VHDL.
 
 ### Projects
 * **Master Thesis:** ConvLSTM-based cell lineage analysis in optical microscopy sequences [private]
+
+  <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
   | <img src="https://user-images.githubusercontent.com/62755943/167618346-8dc670e0-b50b-4567-954c-82afdb6b5e5e.png" width="500">| <img src="https://user-images.githubusercontent.com/62755943/167620269-1597cab2-3f71-4e1a-a71d-e61f6cb1b031.gif" width="250">|
   |:--:|:--:| 
   | Learning goal | Tracking prediction for HeLa cell|
@@ -29,6 +31,8 @@ My key skills are designing Deep Learning models in Python with Tensorflow, Open
   **Conclusion** It needs to be considered, whether further method improvements can overcome the limitations, or an entirely different approach is required.
 
 * **Research Thesis:** DL-based automated detection and tracking of human cells in microscopy image sequences [private]
+  
+  <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
   | <img src="https://user-images.githubusercontent.com/62755943/167648765-ec0f7ffd-9cd2-4913-aa57-a8287b4090d7.jpg" width="600">| <img src="https://user-images.githubusercontent.com/62755943/167648884-941b92f3-a9ac-4544-a93d-6222c8a541ff.gif" width="400">|
   |:--:|:--:| 
   | MPM-Net method | Prediction results for lung cancer cells|
@@ -42,10 +46,14 @@ My key skills are designing Deep Learning models in Python with Tensorflow, Open
   **Conclusion** Overall results prove that the MPM-Net based algorithm is applicable to detecting and tracking human-cancer cell lines, but shows limitations with regard to overdetection and detecting mitosis events reliably. At the same time the model is generalizable to similar, unseen cell lines and learned to identify real biological structures, such as cell nuclei, as a critical feature for high cell probability. 
   
 * **Deep Learning Lab 2021**: Diabetic Retinopathy Detection and Human Activity Recognition [public] [check it out](https://github.com/lely475/Deep-Learning-Lab-2021)
+  
+  <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
 
   Two projects implemented during the Deep Learning Lab 2021 of the Institute of Signal Processing and System Theory ([ISS](https://www.iss.uni-stuttgart.de/en/)) 
   1. Deep-learning based classification of retina image into cases of referable and non-referable diabetic retinopathy. 
   2. Human activity recognition based on smartphone sensor data classified with a RNN
 * **REST API backend**: [private]
+  
+  <img align='center' src="https://img.shields.io/badge/Javascript-000000?style=flat&logo=javascript"><img align='center' src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express">
 
   Implementation of a REST API connecting a Postgresql database with a User Interface. Implemented using Javascript, Express.js and Node.js.
