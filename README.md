@@ -4,7 +4,9 @@ M. Sc. Electrical Engineering @ <a href="https://www.uni-stuttgart.de/en/">Unive
 </p>
 <!---<img align='right' src="https://user-images.githubusercontent.com/62755943/167622812-d977ea06-8e88-40c8-8dc2-0352de13893d.png" width="250"> --->
 
-[![Linkedin: Lydia Schönpflug](https://img.shields.io/badge/-Lydia%20Schönpflug-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/lydia-schoenpflug)
+[![Linkedin: Lydia Schönpflug](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/lydia-schoenpflug)
+[![Xing: Lydia Schönpflug](https://img.shields.io/badge/-Xing-3b8071?style=plastic&logo=xing)](https://www.xing.com/profile/Lydia_Schoenpflug)
+
 
 ### About me...  
 I enjoy solving data-related problems especially with Machine Learning methods and have a passion for the (bio-)medical field.
