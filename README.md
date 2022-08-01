@@ -47,7 +47,7 @@ Key skills: Designing Deep Learning models in <img align='center' src="https://i
   
   **Conclusion** Overall results prove that the MPM-Net based algorithm is applicable to detecting and tracking human-cancer cell lines, but shows limitations with regard to overdetection and detecting mitosis events reliably. At the same time the model is generalizable to similar, unseen cell lines and learned to identify real biological structures, such as cell nuclei, as a critical feature for high cell probability. 
   
-* **Deep Learning Lab 2021**: Diabetic Retinopathy Detection and Human Activity Recognition [public] [check it out](https://github.com/lely475/Deep-Learning-Lab-2021)
+* **Deep Learning Lab 2021**: Diabetic Retinopathy Detection and Human Activity Recognition [private] <!-- [check it out](https://github.com/lely475/Deep-Learning-Lab-2021) -->
   
   <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
 
