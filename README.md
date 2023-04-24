@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Lydia Schönpflug! <img align='right' src="https://user-images.githubusercontent.com/62755943/167626161-d15e046b-4cd9-4cfc-b8d5-3d225400697a.png" width="250"> </h2> 
-<p>Data Scientist </br>
-M. Sc. Electrical Engineering @ <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a></br>Backend Developer @ <a href="https://vica.one">vica.one</a>
+<p>
+Data Scientist @ <a href="https://aipath.ch/">CTP Lab UZH/USZ</a></br>
 </p>
 <!---<img align='right' src="https://user-images.githubusercontent.com/62755943/167622812-d977ea06-8e88-40c8-8dc2-0352de13893d.png" width="250"> --->
 
@@ -9,7 +9,7 @@ M. Sc. Electrical Engineering @ <a href="https://www.uni-stuttgart.de/en/">Unive
 
 
 ### About me...  
-I enjoy solving data-related problems especially with Machine Learning methods and have a passion for the (bio-)medical field.
+I enjoy solving data-related problems especially with Deep Learning methods and have a passion for its biomedical application, currently with a focus in Digital Pathology.
 
 Beyond just coding I like to dig deeper into the mathematical aspects of Machine Learning, which is supported and motivated by lectures during my masters degree, such as Advanced Mathematics for Stastical and Signal Processing, Detection and Pattern Recognition, Stastical and Adaptive Signal Processing, Deep Learning and Computer Vision.
 Due to the mostly interdisciplinary nature of Machine Learning applications I believe it is crucial to familiarize with the data and fully understand the desired objective, before implementing a solution.
