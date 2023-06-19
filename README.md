@@ -14,8 +14,7 @@ I enjoy solving data-related problems especially with Deep Learning methods and 
 Beyond just coding I like to dig deeper into the mathematical aspects of Machine Learning, which is supported and motivated by lectures during my masters degree, such as Advanced Mathematics for Stastical and Signal Processing, Detection and Pattern Recognition, Stastical and Adaptive Signal Processing, Deep Learning and Computer Vision.
 Due to the mostly interdisciplinary nature of Machine Learning applications I believe it is crucial to familiarize with the data and fully understand the desired objective, before implementing a solution.
 
-Key skills: Designing Deep Learning models in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">, <img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv"> and <img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch">, but I also have experience in Backend Development with <img align='center' src="https://img.shields.io/badge/Javascript-000000?style=flat&logo=javascript"> and Embedded System design with C and VHDL.
-
+Key skills: Designing Deep Learning models in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">, <img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv"> and <img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch">.
 ### Projects
 * **Master Thesis:** ConvLSTM-based cell lineage analysis in optical microscopy sequences [private]
 
