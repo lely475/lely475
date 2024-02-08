@@ -26,7 +26,7 @@ Key skills: Designing Deep Learning models in <img align='center' src="https://i
   
   **Results&Conclusion** We find that a "soft", probability-map instance segmentation ground truth leads to best model performance. Combined with cell-tissue interaction and test-time augmentation our Soft Cell-Tissue-Model (SoftCTM) achieves 0.7172 mean F1-Score on the Overlapped Cell On Tissue (OCELOT) test set, achieving the third best overall score in the [OCELOT 2023 Challenge](https://ocelot2023.grand-challenge.org/).
 
-* **Multi-task learning for tissue segmentation and tumor detection in colorectal cancer histology slides**  [Link to paper]([https://arxiv.org/abs/2312.12151](https://arxiv.org/abs/2304.03101))
+* **Multi-task learning for tissue segmentation and tumor detection in colorectal cancer histology slides**  [Link to paper](https://arxiv.org/abs/2304.03101)
   
   <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
   <img src="https://github.com/lely475/lely475/assets/62755943/6575c413-42c7-46f5-bd76-fa6e44991cb8" width="900">
