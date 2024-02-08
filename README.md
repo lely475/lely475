@@ -9,13 +9,34 @@ Data Scientist @ <a href="https://aipath.ch/">CTP Lab UZH/USZ</a></br>
 
 
 ### About me...  
-I enjoy solving data-related problems especially with Deep Learning methods and have a passion for its biomedical application, currently with a focus in Digital Pathology.
+I enjoy solving data-related problems especially with Deep Learning methods and have a passion for its biomedical application, with a focus in Computational Pathology.
 
-Beyond just coding I like to dig deeper into the mathematical aspects of Machine Learning, which is supported and motivated by lectures during my masters degree, such as Advanced Mathematics for Stastical and Signal Processing, Detection and Pattern Recognition, Stastical and Adaptive Signal Processing, Deep Learning and Computer Vision.
-Due to the mostly interdisciplinary nature of Machine Learning applications I believe it is crucial to familiarize with the data and fully understand the desired objective, before implementing a solution.
+Beyond just coding I like to dig deeper into the mathematical aspects of Deep Learning, which is supported and motivated by lectures during my masters degree, such as Advanced Mathematics for Stastical and Signal Processing, Detection and Pattern Recognition, Stastical and Adaptive Signal Processing, Deep Learning and Computer Vision. Due to the mostly interdisciplinary nature of Deep Learning applications I believe it is crucial to familiarize with the data and fully understand the desired objective, before implementing a solution.
 
-Key skills: Designing Deep Learning models in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">, <img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv"> and <img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch">.
+Key skills: Designing Deep Learning models in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch">, <img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv"> and <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">.
 ### Projects
+* **SoftCTM: Cell detection in H&E images by soft instance segmentation and consideration of cell-tissue interaction** [Link to paper](https://arxiv.org/abs/2312.12151)
+  
+  <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
+  <img src="https://github.com/lely475/lely475/assets/62755943/74c0b66e-caaf-496c-9ed3-a626aed1da3f" width="800">
+  
+  **Motivation** Detecting and classifying cells in histopathology H\&E stained whole-slide images is a core task in computational pathology, as it provides valuable insight into the tumor microenvironment.
+  
+   **Methods** In this work we investigate the impact of ground truth formats on the models performance. Additionally, cell-tissue interactions are considered by providing tissue segmentation predictions as input to the cell detection model.
+  
+  **Results&Conclusion** We find that a "soft", probability-map instance segmentation ground truth leads to best model performance. Combined with cell-tissue interaction and test-time augmentation our Soft Cell-Tissue-Model (SoftCTM) achieves 0.7172 mean F1-Score on the Overlapped Cell On Tissue (OCELOT) test set, achieving the third best overall score in the [OCELOT 2023 Challenge](https://ocelot2023.grand-challenge.org/).
+
+* **Multi-task learning for tissue segmentation and tumor detection in colorectal cancer histology slides**  [Link to paper]([https://arxiv.org/abs/2312.12151](https://arxiv.org/abs/2304.03101))
+  
+  <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
+  <img src="https://github.com/lely475/lely475/assets/62755943/6575c413-42c7-46f5-bd76-fa6e44991cb8" width="900">
+    
+  **Motivation** Automating tissue segmentation and tumor detection in histopathology images of colorectal cancer (CRC) is an enabler for faster diagnostic pathology workflows. At the same time it is a challenging task due to low availability of public annotated datasets and high variability of image appearance. The semi-supervised learning for CRC detection [SemiCOL](https://www.semicol.org/) challenge 2023 provides partially annotated data to encourage the development of automated solutions for tissue segmentation and tumor detection.
+  
+   **Methods** We propose a U-Net based multi-task model combined with channel-wise and image-statistics-based color augmentations, as well as test-time augmentation, as a candidate solution to the SemiCOL challenge.
+  
+  **Results&Conclusion** Our approach achieved a multi-task Dice score of .8655 (Arm 1) and .8515 (Arm 2) for tissue segmentation and AUROC of .9725 (Arm 1) and 0.9750 (Arm 2) for tumor detection on the challenge validation set.
+  
 * **Master Thesis:** ConvLSTM-based cell lineage analysis in optical microscopy sequences [private]
 
   <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
@@ -53,8 +74,4 @@ Key skills: Designing Deep Learning models in <img align='center' src="https://i
   Two projects implemented during the Deep Learning Lab 2021 of the Institute of Signal Processing and System Theory ([ISS](https://www.iss.uni-stuttgart.de/en/)) 
   1. Deep-learning based classification of retina image into cases of referable and non-referable diabetic retinopathy. 
   2. Human activity recognition based on smartphone sensor data classified with a RNN
-* **REST API backend**: [private]
-  
-  <img align='center' src="https://img.shields.io/badge/Javascript-000000?style=flat&logo=javascript"><img align='center' src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express">
 
-  Implementation of a REST API connecting a Postgresql database with a User Interface. Implemented using Javascript, Express.js and Node.js.
