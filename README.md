@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Lydia Schönpflug! <img align='right' src="https://user-images.githubusercontent.com/62755943/167626161-d15e046b-4cd9-4cfc-b8d5-3d225400697a.png" width="250"> </h2> 
 <p>
-Data Scientist @ <a href="https://aipath.ch/">CTP Lab UZH/USZ</a></br>
+Data Scientist @ <a href="https://dbe.unibas.ch/en/research/medical/computational-pathology/">CTP Lab Uni Basel/USB</a></br>
 </p>
 <!---<img align='right' src="https://user-images.githubusercontent.com/62755943/167622812-d977ea06-8e88-40c8-8dc2-0352de13893d.png" width="250"> --->
 
